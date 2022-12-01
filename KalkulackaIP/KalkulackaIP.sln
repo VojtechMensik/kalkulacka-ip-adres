@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KalkulackaIP", "PrevodSoustav\KalkulackaIP.csproj", "{07797C94-2D5C-44C9-B4C0-2A64B2E5ED0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07797C94-2D5C-44C9-B4C0-2A64B2E5ED0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07797C94-2D5C-44C9-B4C0-2A64B2E5ED0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07797C94-2D5C-44C9-B4C0-2A64B2E5ED0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07797C94-2D5C-44C9-B4C0-2A64B2E5ED0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74ECCD83-7975-41B7-87B2-19A92E378562}
+	EndGlobalSection
+EndGlobal
