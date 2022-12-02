@@ -1,0 +1,11 @@
+G:\PoS\Projekty\KalkulackaIPadres\bin\Debug\KalkulackaIPadres.exe.config
+G:\PoS\Projekty\KalkulackaIPadres\bin\Debug\KalkulackaIPadres.exe
+G:\PoS\Projekty\KalkulackaIPadres\bin\Debug\KalkulackaIPadres.pdb
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.csproj.AssemblyReference.cache
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.csproj.SuggestedBindingRedirects.cache
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.Form1.resources
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.Properties.Resources.resources
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.csproj.GenerateResource.cache
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.csproj.CoreCompileInputs.cache
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.exe
+G:\PoS\Projekty\KalkulackaIPadres\obj\Debug\KalkulackaIPadres.pdb
