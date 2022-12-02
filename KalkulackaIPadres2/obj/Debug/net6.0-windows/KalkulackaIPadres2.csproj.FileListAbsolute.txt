@@ -1,0 +1,17 @@
+G:\PoS\KalkulackaIPadres2\bin\Debug\net6.0-windows\KalkulackaIPadres2.exe
+G:\PoS\KalkulackaIPadres2\bin\Debug\net6.0-windows\KalkulackaIPadres2.deps.json
+G:\PoS\KalkulackaIPadres2\bin\Debug\net6.0-windows\KalkulackaIPadres2.runtimeconfig.json
+G:\PoS\KalkulackaIPadres2\bin\Debug\net6.0-windows\KalkulackaIPadres2.dll
+G:\PoS\KalkulackaIPadres2\bin\Debug\net6.0-windows\KalkulackaIPadres2.pdb
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.csproj.AssemblyReference.cache
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.Form1.resources
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.csproj.GenerateResource.cache
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.GeneratedMSBuildEditorConfig.editorconfig
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.AssemblyInfoInputs.cache
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.AssemblyInfo.cs
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.csproj.CoreCompileInputs.cache
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.dll
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\refint\KalkulackaIPadres2.dll
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.pdb
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\KalkulackaIPadres2.genruntimeconfig.cache
+G:\PoS\KalkulackaIPadres2\obj\Debug\net6.0-windows\ref\KalkulackaIPadres2.dll
